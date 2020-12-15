@@ -9,5 +9,6 @@ git remote add origin git@github.com:filfilt/aFullStackRepo.git
 Step:2
 ====
 git add .
-git commit -m "initial commit"
-git push -u origin main
+git commit -m "first commit"
+git push -u origin master
+
