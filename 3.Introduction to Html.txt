@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Devslopes</title>
+</head>
+    <body>
+        <h1>welcome to Devslops</h1>
+    </body>
+</html>
