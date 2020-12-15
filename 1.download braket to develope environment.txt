@@ -4,3 +4,10 @@ Steps:
 ====
 Braket
 Brackets - A modern, open source code editor that ...
+
+-----------------/-------------------
+- open braket
+- File New
+- Ctrl + S
+- give file name
+- save where you want
