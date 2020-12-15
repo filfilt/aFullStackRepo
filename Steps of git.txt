@@ -6,9 +6,15 @@ Steps:1
 git init 
 git remote add origin git@github.com:filfilt/aFullStackRepo.git
 
-Step:2
+Step:2 for the first time
 ====
 git add .
 git commit -m "first commit"
 git push -u origin master
+
+Step:2 after the first time
+====
+git add .
+git commit -m "first commit"
+git push 
 
