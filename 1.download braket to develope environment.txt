@@ -11,3 +11,7 @@ Brackets - A modern, open source code editor that ...
 - Ctrl + S
 - give file name
 - save where you want
+  Or
+	- create a folder on your local
+	- create a file in you folder
+	- open "Bracket" on your file then write your code and look it on live by clicking line preview
