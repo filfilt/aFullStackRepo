@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    
+<head>
+    <title>Devslopes</title>
+</head>
+    <body>
+   
+          <table cellspacing="25">
+            <tr>
+                <td><img src="Img/nega.ico" width="200%" height="200%"></td> 
+                 &nbsp;&nbsp;&nbsp;<td><h4>Welcme Devslops</h4></td>
+                
+            </tr>
+        </table>
+        
+        <table cellspacing="10">
+            <tr>
+                <td><a href="#">Home</a></td>
+                 <td><a href="#">Course</a></td>
+                 <td><a href="#">About US</a></td>
+                 <td><a href="#">Contact Us</a></td>
+            </tr>
+        </table>
+     
+        <hr>
+  
+    <table border="5"
+           cellpadding="25"
+           cellspacing="5">
+        <tr>
+            <td><button>IT course</button></td>
+            <td><button>FullStack course</button></td>
+            <td><button>DataBase course</button></td>
+            <td><button>DataScince course</button></td>
+        </tr>
+        
+         <tr>
+            <td><button>Maths course</button></td>
+            <td><button>Physics course</button></td>
+            <td><button>Medical course</button></td>
+            <td><button>SpaceScince course</button></td>
+        </tr>
+       
+    </table>
+        
+         <hr>
+        <ol>
+            <li>Learning code</li>
+            <li>Practice coding</li>
+            <li>Important partion</li>
+        </ol>
+        
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/btuC2IfwmfQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        <hr>
+        <h1>Contact Us Forms</h1>
+        <form>
+            FName:<br><br>
+            <input type="text"><br><br>
+            Email:<br><br><input type="text"><br><br>
+            <Button>Submit</Button>
+        </form>
+</body>
+</html>
