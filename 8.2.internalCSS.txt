@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>inlineCSS</title>
+    <style>
+        h1 {
+            color: purple;
+            background-color: yellow;
+        }
+        
+        h2{
+            color: green;
+            border: 3px solid red;
+        }
+    </style>
+</head>
+<body>
+    <h1 >Lets eat Orange</h1> 
+    <h2 >I love CSS</h2>
+</body>
+</html>
