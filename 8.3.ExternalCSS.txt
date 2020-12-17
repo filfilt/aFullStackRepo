@@ -1,0 +1,29 @@
+#Html part
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>inlineCSS</title>
+    <link rel="stylesheet" href="mian.css">
+
+</head>
+<body>
+    <h1 >Lets eat Orange</h1> 
+    <h2 >I love CSS</h2>
+</body>
+</html>
+
+# CSS part
+
+
+        h1 {
+            color: purple;
+            background-color: yellow;
+        }
+        
+        h2{
+            color: green;
+            border: 3px dotted blue;
+        }
+   
