@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>inlineCSS</title>
+</head>
+<body>
+    <h1 style="color: red;border: 3px dotted blue">Lets eat Orange</h1> 
+    <h1 style="color: green">I love CSS</h1>
+</body>
+</html>
