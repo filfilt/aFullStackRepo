@@ -1,0 +1,24 @@
+# Index part
+===========
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Element Selector</title>
+    <link rel="stylesheet" href="Id.Css">
+</head>
+<body>
+ <div id="n">Welcome to fullstak</div>
+</body>
+</html>
+
+#css part
+=========
+body {
+    background-color: #cc99ff;
+}
+
+#n {
+    color: darkred;
+    font-size: 40px;
+}
+
