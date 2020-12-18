@@ -1,0 +1,23 @@
+# index part
+=========
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Element Selector</title>
+    <link rel="stylesheet" href="Element.css">
+</head>
+<body>
+ <h1>Fullstak is Awesome</h1>
+</body>
+</html>
+
+Css Part
+=======
+
+body {
+    background-color: #cc99ff;
+   
+}
+h1 {
+    color: red;
+}
