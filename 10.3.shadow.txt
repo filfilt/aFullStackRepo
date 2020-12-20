@@ -1,0 +1,36 @@
+# index part
+====
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Document</title>
+    <link rel="stylesheet" href="shadow.css">
+</head>
+<body>
+    <div class="container">
+            <h1>you are css to my html</h1> 
+            <h2>any one must learn css</h2>
+    </div>
+</body>
+</html>
+
+#CSS part
+===
+
+.container {
+  
+background: linear-gradient(#006600,  #ffff00, #990000);
+    box-shadow: 3px 5px 3px black;
+    
+}
+
+h1 {
+    color: #ffffff;
+    text-shadow: 2px 2px 5px black;
+}
+
+h2 {
+    color: rgb(0, 204, 255);
+    text-shadow: 1px 1px 3px black;
+}
