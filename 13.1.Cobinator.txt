@@ -1,0 +1,67 @@
+#Index Part
+===========
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Document</title>
+    <link rel="stylesheet" href="cobinator.css">
+</head>
+<body>
+    <div class="container">
+            <h1>you are css to my html</h1> 
+            <h2>any one must learn css</h2>
+        </div>
+ 
+    <div>
+    <img src="lion.png" class="borderImg">
+        <ul>
+            <li>I love to Read</li>
+             <li> Web Stack is good to web development</li>
+            <ol>
+                 <li>AWS is the best one</li>
+                 <li>CSS is one of the best part of Full stack</li>
+            </ol>
+             <li>I love to CSS</li>
+        </ul>
+    </div>
+           
+</body>
+</html>
+
+#CSS Part
+========
+body {
+    background: antiquewhite;
+}
+.container {
+  
+/*
+background: linear-gradient(#006600,  #ffff00, #990000);
+    box-shadow: 3px 5px 3px black;
+    
+*/
+}
+
+h1 {
+    color: #ffffff;
+    text-shadow: 2px 2px 5px black;
+}
+
+h2 {
+    color: rgb(0, 204, 255);
+    text-shadow: 1px 1px 3px black;
+}
+
+.borderImg {
+    border: 2px solid red;
+}
+
+ul li {
+    color: blue;
+    font-size: 30px;
+}
+
+ul > li {
+    color: red;
+}
