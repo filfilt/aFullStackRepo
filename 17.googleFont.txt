@@ -1,0 +1,113 @@
+index Part
+==//==
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Document</title>
+    
+
+<link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Langar&family=Yellowtail&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="googleFont.css">
+</head>
+<body>
+    <div class="container">
+            <h1> H1 - you are css to my html</h1> 
+            <h2> H2 - any one must learn css</h2>
+        <h3> H3 - This is good to learn web development</h3>
+        </div>
+ 
+    <div>
+    <img src="lion.png" class="borderImg">
+<!--
+        <ul>
+            <li>I love to Read</li>
+             <li> Web Stack is good to web development</li>
+            <ol>
+                 <li>AWS is the best one</li>
+                 <li>CSS is one of the best part of Full stack</li>
+            </ol>
+             <li>I love to CSS</li>
+        </ul>
+-->
+    </div>
+    
+        <h2> H2 - I love Reading CSS</h2>
+        <h3> H3 - We Should learn HTML</h3>
+    <div class="formating">
+        <div><b>I am BOLD</b></div>
+        <div><i>I am Italic</i></div>
+        <div><em>I am EMPHASIS</em></div>
+        <div><strong>I am STRONG</strong></div>
+        <div><del>I am DELETE</del></div>
+        <div><mark>I am MARK</mark></div>
+    </div>
+    <a href="#">Click Me Now</a>
+           
+</body>
+</html>
+
+CSS Part
+====//===
+body {
+    background: antiquewhite;
+    text-align: center;
+}
+.container {
+  
+/*
+background: linear-gradient(#006600,  #ffff00, #990000);
+    box-shadow: 3px 5px 3px black;
+    
+*/
+}
+
+
+
+h1{
+    color: #000000;
+     line-height: 2em;
+   font-family: 'Langar';
+}
+
+h2 {
+    
+   color: #000000;
+    line-height: 2em;
+   font-family: 'Audiowide';
+}
+
+h3 {
+    
+   color: #000000;
+    line-height: 2em;
+   font-family: 'Yellowtail&display=swap';
+}
+
+.formating {
+    font-size: 25px;
+    line-height: 2em;
+    color: darkblue;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+    word-spacing: 30px;
+    text-transform: uppercase;
+}
+
+.borderImg {
+    border: 2px solid red;
+}
+
+ul li {
+    color: blue;
+    font-size: 30px;
+}
+
+ul > li {
+    color: red;
+}
