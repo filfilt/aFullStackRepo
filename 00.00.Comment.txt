@@ -1,0 +1,3 @@
+To Comment the note from Braket
+==================//===========
+Ctrl + /
